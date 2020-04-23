@@ -1,3 +1,19 @@
-[submodule "laradock"]
+[submodule "Community Banners"]
 	path = Community Banners
 	url = https://github.com/ECHibiki/Community-Banners
+
+[submodule " 	Kissu-Benchmarks"]
+	path =  	Kissu-Benchmarks
+	url = https://github.com/ECHibiki/Kissu-Benchmarks
+
+[submodule "Kissu-Docs"]
+	path = Kissu-Docs
+	url = https://github.com/ECHibiki/Kissu-Docs
+
+[submodule "Kissu-React"]
+	path = Kissu-React
+	url = https://github.com/ECHibiki/Kissu-React
+
+[submodule "Kissu-Vi"]
+	path = Kissu-Vi
+	url = https://github.com/ECHibiki/Kissu-Vi
