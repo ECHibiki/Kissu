@@ -4,7 +4,7 @@
 
 [submodule " Kissu-Benchmarks"]
 	path =  Kissu-Benchmarks
-	url = https://gist.github.com/46c235e91f89b0b6aa34730948c62ba9.git
+	url = https://gist.github.com/ECHibiki/46c235e91f89b0b6aa34730948c62ba9
 
 [submodule "Kissu-Docs"]
 	path = Kissu-Docs
