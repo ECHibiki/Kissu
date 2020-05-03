@@ -1,6 +1,6 @@
 [submodule "Community Banners"]
 	path = Community Banners
-	url = https://github.com/ECHibiki/Community-Banners
+	url = https://github.com/ECHibiki/Community-Banners.git
 
 [submodule " Kissu-Benchmarks"]
 	path =  Kissu-Benchmarks
@@ -8,17 +8,17 @@
 
 [submodule "Kissu-Docs"]
 	path = Kissu-Docs
-	url = https://github.com/ECHibiki/Kissu-Docs
+	url = https://github.com/ECHibiki/Kissu-Docs.git
 
 [submodule "Kissu-React"]
 	path = Kissu-React
-	url = https://github.com/ECHibiki/Kissu-React
+	url = https://github.com/ECHibiki/Kissu-React.git
 
 [submodule "Kissu-Vi"]
 	path = Kissu-Vi
-	url = https://github.com/ECHibiki/Kissu-Vi
+	url = https://github.com/ECHibiki/Kissu-Vi.git
 
 [submodule "captchouli"]
 	path = captchouli
-	url = https://github.com/ECHibiki/captchouli
+	url = https://github.com/ECHibiki/captchouli.git
 	branch = master
