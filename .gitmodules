@@ -2,9 +2,9 @@
 	path = Community Banners
 	url = https://github.com/ECHibiki/Community-Banners
 
-[submodule " 	Kissu-Benchmarks"]
-	path =  	Kissu-Benchmarks
-	url = https://github.com/ECHibiki/Kissu-Benchmarks
+[submodule " Kissu-Benchmarks"]
+	path =  Kissu-Benchmarks
+	url = https://gist.github.com/ECHibiki/46c235e91f89b0b6aa34730948c62ba9
 
 [submodule "Kissu-Docs"]
 	path = Kissu-Docs
