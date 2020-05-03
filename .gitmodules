@@ -17,3 +17,8 @@
 [submodule "Kissu-Vi"]
 	path = Kissu-Vi
 	url = https://github.com/ECHibiki/Kissu-Vi
+
+[submodule "captchouli"]
+	path = captchouli
+	url = https://github.com/ECHibiki/captchouli
+	branch = master
