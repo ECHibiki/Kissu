@@ -19,7 +19,7 @@ Community Banners -- MPL2.0
 <br/>
 Captchouli -- GPL3.0
 <br/>
-Kissu-React-Documentation --  Copyright ECHibiki
+French-Kissu-Documentation --  Copyright ECHibiki
 <br/>
 French-Kissu -- Copyright ECHibiki
 <br/>
