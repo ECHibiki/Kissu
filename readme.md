@@ -20,9 +20,9 @@ Community Banners -- MPL2.0
 <br/>
 Captchouli -- GPL3.0
 <br/>
-French-Kissu-Documentation --  Copyright ECHibiki
+Kissu-Documentation --  Copyright ECHibiki
 <br/>
-French-Kissu -- Copyright ECHibiki
+Kissu -- Copyright ECHibiki
 <br/>
 Hazuki -- Copyright ECHibiki
 <br/>
